@@ -16,7 +16,9 @@ $ pip2 install python2
 
 $ pkg install git -y
 
-$ pip install colorama && pip install requests
+$ pip install colorama
+
+$ pip install requests
 
 $ cd
 
