@@ -18,11 +18,13 @@ $ cd
 
 $ git clone https://github.com/Ap4the/apathe-spambot
 
-$ ls
+$ cd
 
 $ cd apathe-spambot
 
 $ chmod 777 *
+
+$ python3 spam.py
 
 # Nasıl Kullanılır ? , "userlist.txt"ye yeterince kullanıcı yazdıktan sonra "python3 spam.py" komutuyla Spam Bot açılacaktır , daha sonra sırayla hedef hesabın kullanıcı adını ve User ID'sini yazarak Spam Bot'u başlatabilirsiniz ,  dilerseniz "proxy.txt"ye Proxy'ler yazarak atılan spamları daha etkili bir hale getirebilirsiniz.
 
