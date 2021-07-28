@@ -4,11 +4,11 @@ from colorama import init,Style,Fore
 
 banner="""\033[91m
 ------------------------------------------------------------
-Instagram Spam Bot | Theós Hack Team | www.theosforum.com
+Instagram Spam Bot | Theós Hack Team | www.theosforum.org
 ------------------------------------------------------------
 
-Coder     ; By Apathe
-Instagram ; berat.vrgl
+Coder     : Apathe
+Instagram : Ap4the
 
 ------------------------------------------------------------
 """
