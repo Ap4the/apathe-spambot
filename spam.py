@@ -8,7 +8,6 @@ banner="""\033[91m
 Instagram Spam Bot | Theós Hack Team | www.theosforum.org
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
 Version   : v2.0
 Coder     : Apathe
 Instagram : Ap4the
