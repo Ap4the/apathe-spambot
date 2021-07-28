@@ -1,6 +1,6 @@
 
 
-# Theós Hack Team | www.theosforum.com | Instagram - Spam Bot v1.0
+# Theós Hack Team | www.theosforum.org | Instagram - Spam Bot v2.0
 
 # Coder ; Apathe
 
@@ -26,5 +26,5 @@ $ chmod 777 *
 
 # Hedef hesabın User ID'si nasıl bulunur ? , https://codeofaninja.com/tools/find-instagram-user-id/ bu site ile kolaylıkla bulabilirsiniz :)
 
-# Bu Spam Bot hedef hesabı kesinlikle kapatmaz sadece hesabın kapanmasına yardımcı olur ! , lütfen yanlızca test için kullanın ! , Spam Bot'u kullandıktan sonra bütün sorumluluk size aittir !
+# Bu Spam Bot hedef hesabı kapatmaz , hedef hesabın kapanmasına yardımcı olur ! , lütfen yanlızca test için kullanın ! , Spam Bot'u kullandıktan sonra bütün sorumluluk size aittir !
 
